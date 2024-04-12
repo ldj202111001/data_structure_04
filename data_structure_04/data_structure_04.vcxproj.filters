@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="data_structure_04.cpp">
+    <ClCompile Include="ex%294.6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
